@@ -1,0 +1,15 @@
+{
+  "author": "Ilya Rogov",
+  "name": "bem-stub-stylus",
+  "email": "ilyar.software@gmail.com",
+  "version": "0.0.0",
+  "ignore": [
+    ".bem/cache",
+    "node_modules",
+    "libs"
+  ],
+  "dependencies": {
+    "bem-core": "v2.1.0",
+    "bem-components": "v2"
+  }
+}
